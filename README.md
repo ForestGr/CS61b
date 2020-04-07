@@ -1,2 +1,2 @@
 # CS61b
-19Sp Hw, labs &amp; Projects
+This folder contains my codes for all the labs, homeworks and projects for UCB CS61b 2019Spring.
